@@ -1,6 +1,6 @@
 # Tuo Yang: personal website, CV and research papers
 
-Tuo (Jackie) Yang is a Ph.D. candidate in Finance at the Carroll School of Management, Boston College, on the 2026-2027 job market.
+Tuo Yang is a Ph.D. candidate in Finance at the Carroll School of Management, Boston College, on the 2026-2027 job market.
 
 Personal website: https://tuo-yang.com (also at https://sites.google.com/bc.edu/tuo-yang)
 
